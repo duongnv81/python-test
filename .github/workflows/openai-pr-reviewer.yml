@@ -22,8 +22,8 @@ jobs:
     steps:
       - uses: fluxninja/openai-pr-reviewer@latest
         env:
-          GITHUB_TOKEN: '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'
-          OPENAI_API_KEY: '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'
+          GITHUB_TOKEN: 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
+          OPENAI_API_KEY: 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
         with:
           debug: false
           review_simple_changes: false
