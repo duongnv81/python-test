@@ -1,2 +1,2 @@
-def welcomeTo_New1():
+def welcomeTo_New():
   print('welcome to testa')
