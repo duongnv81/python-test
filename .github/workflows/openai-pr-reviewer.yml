@@ -22,7 +22,7 @@ jobs:
     steps:
       - uses: fluxninja/openai-pr-reviewer@latest
         env:
-          GITHUB_TOKEN: "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"
+          GITHUB_TOKEN: "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"
           OPENAI_API_KEY: "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"
         with:
           debug: false
