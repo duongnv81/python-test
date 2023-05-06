@@ -1,2 +1,2 @@
-def welcome():
+def haha():
   print('welcome to test')
